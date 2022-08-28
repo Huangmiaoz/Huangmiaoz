@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+Yingyu Huang
+🔭 I’m currently studying in GZHU
+🌱 I’m currently learning Javascript + Vue
+📫 How to reach me: redmancy@foxmail.com
 
 <!--
 **Huangmiaoz/Huangmiaoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
