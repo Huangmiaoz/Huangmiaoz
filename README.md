@@ -4,8 +4,6 @@ Yingyu Huang
 
 🔭 I’m currently studying in GZHU
 
-🌱 I’m currently learning Javascript + Vue
-
 📫 How to reach me: redmancy@foxmail.com
 
 <!--
